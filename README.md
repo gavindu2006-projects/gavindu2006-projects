@@ -28,13 +28,13 @@
 ---
 
 ## 🚀 Projects
-- -
+- 
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gavindu2006-projects&show_icons=true&theme=tokyonight)
 
 ---
 
