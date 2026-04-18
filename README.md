@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋, I'm Gavindu Kavishka
 
-<!--
-**gavindu2006-projects/gavindu2006-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 I’m currently learning: Web Development, Microcontrollers, etc.
+- 🔭 I’m working on: Simple Projects / IoT Projects / Web Projects
+- 🎯 Goal: Become a Full Stack Developer & Build Real-World Systems
+- ⚡ Fun fact: I love turning ideas into real projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- JavaScript
+- Python
+- C++
+- HTML, CSS
+
+**Frameworks & Tools:**
+- Linux
+- Arduino / ESP32
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+- -
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/gavindu2006-projects
+- Email: gavindu2006@proton.me
+- LinkedIn: https://linkedin.com/in/gavindu2006
+
+---
+
+⭐ “Keep building, keep learning.”
