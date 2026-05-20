@@ -28,7 +28,7 @@
 ---
 
 ## 🚀 Projects
-- 
+- 🏠 Room Automation System (ESP32)
 
 ---
 
