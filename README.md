@@ -32,12 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gavindu2006-projects&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 - GitHub: https://github.com/gavindu2006-projects
 - Email: gavindu2006@outlook.com
