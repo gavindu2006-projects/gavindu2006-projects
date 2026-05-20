@@ -40,7 +40,7 @@
 
 ## 🌐 Connect With Me
 - GitHub: https://github.com/gavindu2006-projects
-- Email: gavindu2006@proton.me
+- Email: gavindu2006@outlook.com
 - LinkedIn: https://linkedin.com/in/gavindu2006
 
 ---
